@@ -1,1 +1,2 @@
-# grad-app-resources
+## Resources for Grad Applications  
+
