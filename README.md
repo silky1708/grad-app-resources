@@ -6,7 +6,7 @@ Before starting the grad applications journey, it would be good to go through th
 2. Lovish Chopra's How I got into Stanford? [link](https://medium.com/@lovishchopra/how-i-got-into-stanford-ms-in-cs-application-experience-tips-and-tricks-4ba1772bb9b)  
 
 
-Below are some additional links to help with SOP drafts, or general advice on the whole process:  
+Below are some additional links to help with SOP, LOR, or just general advice on the whole process:  
 1. [Andrew Kutz's CS/HCI PhD Application Review Program Tracker](https://www.andrewkuz.net/public/dashboards/cs-hci-phd-application-review-programs/2025/html/cs-hci-phd-application-review-programs-2025.html)
 2. [CS PhD Statements of Purpose](https://cs-sop.notion.site/CS-PhD-Statements-of-Purpose-df39955313834889b7ac5411c37b958d)  (this is super cool, since students who have got in some really great universities have posted their SOPs publicly)
 3. [Eugenie Lai's CS PhD Statement of Purpose (MIT)](https://eugenielai.github.io/posts/another-annotated-sop.html)
