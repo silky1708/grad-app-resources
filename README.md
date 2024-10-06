@@ -21,7 +21,8 @@ Below are some additional links to help with SOP, LOR, or just general advice on
 12. Be sure to check out reddit communities as well: [r/SOP](https://www.reddit.com/r/StatementOfPurpose/), [r/MSCS](https://www.reddit.com/r/MSCS/), [r/gradadmissions](https://www.reddit.com/r/gradadmissions/)
 13. [Quora post on how to improve your chances at top universities](https://myadmissionsposts.quora.com/How-to-improve-your-competitiveness-to-be-admitted-into-a-top-university-that-everyone-under-the-sun-wants-in)
 14. [Luis Von Ahn's blog on Grad School Applications](https://vonahn.blogspot.com/2009/12/advice-on-grad-school-applications.html)
-15. Guide to good LORs: [Shriram Krishnamurthi (Brown U)](https://cs.brown.edu/~sk/Memos/Grad-School-Recos/), [Michael Ernst (UWash)](https://homes.cs.washington.edu/~mernst/advice/write-recommendation.html)  
+15. Guide to good LORs: [Shriram Krishnamurthi (Brown U)](https://cs.brown.edu/~sk/Memos/Grad-School-Recos/), [Michael Ernst (UWash)](https://homes.cs.washington.edu/~mernst/advice/write-recommendation.html)
+16. [Dixi Yao's Guide to CS PhD applications](https://dixiyao.github.io/blog_posts/csphdapp/) 
 
 
 
